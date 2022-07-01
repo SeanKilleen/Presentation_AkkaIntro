@@ -11,7 +11,7 @@ jobs:
     name: "C# Code"
     runs-on: ubuntu-latest
     env:
-      SOLUTION_LOCATION: "./code/AkkaIntro.sln"
+      SOLUTION_LOCATION: "./code/AkkaIntro.Core.sln"
     steps:
       - uses: actions/checkout@v2
         name: Pull the code
