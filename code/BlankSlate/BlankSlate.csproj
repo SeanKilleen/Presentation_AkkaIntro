@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Akka" Version="1.4.40" />
+    <PackageReference Include="Akka" Version="1.4.47" />
     <PackageReference Include="Akka.Remote" Version="1.4.40" />
     <PackageReference Include="DotNetty.Buffers" Version="0.7.4" />
     <PackageReference Include="DotNetty.Common" Version="0.7.4" />
