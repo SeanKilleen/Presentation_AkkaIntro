@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Akka" Version="1.4.49" />
+    <PackageReference Include="Akka" Version="1.5.9" />
     <PackageReference Include="Akka.Remote" Version="1.4.49" />
     <PackageReference Include="DotNetty.Buffers" Version="0.7.5" />
     <PackageReference Include="DotNetty.Common" Version="0.7.5" />
